@@ -3,27 +3,32 @@
     {
       "id": 1,
       "title": "Walmart",
-      "founded": "July 2, 1962"
+      "founded": "July 2, 1962",
+      "stores": "10,607"
     },
     {
       "id": 2,
       "title": "Target",
-      "founded": "May 1, 1962"
+      "founded": "May 1, 1962",
+      "stores": "1,956"
     },
     {
       "id": 3,
       "title": "Whole Foods",
-      "founded": "September 20, 1980"
+      "founded": "September 20, 1980",
+      "stores": "536"
     },
     {
       "id": 4,
       "title": "Home Depot",
-      "founded": "February 6, 1978"
+      "founded": "February 6, 1978",
+      "stores": "2,335"
     },
     {
       "id": 5,
       "title": "Best Buy",
-      "founded": "August 22, 1966"
+      "founded": "August 22, 1966",
+      "stores": "1,145"
     }
   ],
   "profile": {
