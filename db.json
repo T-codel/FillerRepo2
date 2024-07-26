@@ -3,22 +3,27 @@
     {
       "id": 1,
       "title": "Walmart"
+      "founded": "July 2, 1962"
     },
     {
       "id": 2,
       "title": "Target"
+      "founded": "May 1, 1962"
     },
     {
       "id": 3,
       "title": "Whole Foods"
+      "founded": "September 20, 1980"
     },
     {
       "id": 4,
       "title": "Home Depot"
+      "founded": "February 6, 1978"
     },
     {
       "id": 5,
       "title": "Best Buy"
+      "founded": "August 22, 1966"
     }
   ],
   "profile": {
