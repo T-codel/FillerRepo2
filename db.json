@@ -1,12 +1,24 @@
 {
-  "posts": [
+  "Stores": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Walmart"
     },
     {
       "id": 2,
-      "title": "test"
+      "title": "Target"
+    },
+    {
+      "id": 3,
+      "title": "Whole Foods"
+    },
+    {
+      "id": 4,
+      "title": "Home Depot"
+    },
+    {
+      "id": 5,
+      "title": "Best Buy"
     }
   ],
   "profile": {
