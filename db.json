@@ -4,31 +4,59 @@
       "id": 1,
       "title": "Walmart",
       "founded": "July 2, 1962",
-      "stores": "10,607"
+      "stores": "10,607",
+      "stockpricevalue": "69.78",
+      "wiki": "https://en.wikipedia.org/wiki/Walmart",
+      "locations": "Worldwide",
+      "ceo": "Doug McMillon",
+      "website": "https://www.walmart.com/"
     },
     {
       "id": 2,
       "title": "Target",
       "founded": "May 1, 1962",
-      "stores": "1,956"
+      "stores": "1,956",
+      "stockpricevalue": "149.00",
+      "wiki": "https://en.wikipedia.org/wiki/Target_Corporation",
+      "locations": "United States, Canada (formerly, see Target Canada)",
+      "ceo": "Brian C. Cornell",
+      "website": "https://www.target.com/"
+
     },
     {
       "id": 3,
       "title": "Whole Foods",
       "founded": "September 20, 1980",
-      "stores": "536"
+      "stores": "536",
+      "stockpricevalue": "41.99",
+      "wiki": "https://en.wikipedia.org/wiki/Whole_Foods_Market",
+      "locations": "United States, Canada, United Kingdom",
+      "ceo": "Jason Buechel",
+      "website": "https://www.wholefoodsmarket.com/"
     },
     {
       "id": 4,
       "title": "Home Depot",
       "founded": "February 6, 1978",
-      "stores": "2,335"
+      "stores": "2,335",
+      "stockpricevalue": "359.51",
+      "wiki": "https://en.wikipedia.org/wiki/Home_Depot",
+      "locations":  "United States, Puerto Rico, Guam, US Virgin Islands, Canada, Mexico",
+      "ceo": "Ted Decker",
+      "website": "homedepot.com"
+
     },
     {
       "id": 5,
       "title": "Best Buy",
       "founded": "August 22, 1966",
-      "stores": "1,145"
+      "stores": "1,145",
+      "stockpricevalue": "87.35",
+      "wiki": "https://en.wikipedia.org/wiki/Best_Buy"
+      "locations": "United States, Canada",
+      "ceo": "Corie Barry",
+      "website": "bestbuy.com"
+
     }
   ],
   "profile": {
